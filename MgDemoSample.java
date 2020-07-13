@@ -3,7 +3,7 @@ public class MgDemoSample {
 
     public void startSample()
     {
-        System.out.println("MgDemoSample");
+        System.out.println("MgDemoSample abcdefg");
     }
 
 }
